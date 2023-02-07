@@ -28,7 +28,7 @@ In this project we used following tech stacks:-
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](./src/Assets/Screenshot (355))
+[Home Page](./src/Assets/Screenshot (355))
 ### 2. Login Page
 ![Login Page](./src/Assets/loginPage.png)
 ### 3. Signup Page
